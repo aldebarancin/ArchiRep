@@ -1,0 +1,11 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cliente Pacifico"
+    id="bf2859a3-6056-4ecd-95bd-0ee392085fb0">
+  <properties
+      key="icon"
+      value="/img/img/diagram_actor.png"/>
+  <properties
+      key="icon size"
+      value="58x83"/>
+</archimate:BusinessActor>

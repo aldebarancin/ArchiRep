@@ -1,0 +1,11 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usuario CRM"
+    id="1a7ae4cf-eabd-4c95-b841-4cd547cf894c">
+  <properties
+      key="icon"
+      value="/img/img/diagram_actor.png"/>
+  <properties
+      key="icon size"
+      value="58x83"/>
+</archimate:BusinessActor>
